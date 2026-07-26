@@ -109,6 +109,11 @@ The project stores appointment records including:
 - "Do I have any appointments today?"
 - "Show today's appointments."
 
+<img width="429" height="497" alt="image" src="https://github.com/user-attachments/assets/4f83e19e-cc68-49ab-b1d3-048e42a83ae7" />
+<img width="429" height="497" alt="image" src="https://github.com/user-attachments/assets/a7bd56f1-575a-4adb-87ee-af9d9d044158" />
+<img width="429" height="497" alt="image" src="https://github.com/user-attachments/assets/eb578d43-b99c-4437-a94f-ad549a4ff295" />
+
+
 ---
 
 ## Future Improvements
